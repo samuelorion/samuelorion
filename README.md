@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @samuelorion
-- 👀 I’m interested in metascience, and fixing science 
-- 🌱 I’m currently ... finishing my PhD
+- 👋  Hi, I’m @samuelorion
+- 👀  I’m interested in the science of science, fixing science, and team science 
+- 🌱  I’m currently ... finishing my PhD in neuroscience, and considering next steps 
 
 
 <!---
