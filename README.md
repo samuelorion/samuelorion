@@ -1,5 +1,5 @@
 - 👋  Hi, I’m @samuelorion
-- 👀  I’m interested in the science of science, fixing science, and team science 
+- 👀  I am interested in most things, and enjoy trying to improve how we do science, by doing.  
 - 🌱  I’m currently ... finishing my PhD in neuroscience, and considering next steps 
 
 
