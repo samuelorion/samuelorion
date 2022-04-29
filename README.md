@@ -1,6 +1,4 @@
-- 👋  Hi, I’m @samuelorion
-- 👀  I am interested in most things, and enjoy trying to improve how we do science, by doing.  
-- 🌱  I’m currently ... finishing my PhD in neuroscience, and considering next steps 
+- 👋  Hi, I’m @samuelorion, PhD
 
 
 <!---
